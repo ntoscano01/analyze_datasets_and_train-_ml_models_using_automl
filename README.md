@@ -12,4 +12,8 @@ This course teaches foundational concepts for exploratory data analysis (EDA), a
 
 
 
+<img src="[https://github.com/ntoscano01/tumor_diag_seaborn/blob/main/build_data_frame.png](https://github.com/ntoscano01/certificates/blob/main/Analyze%20Datasets%20and%20Train%20ML%20Models%20using%20AutoML.png)" width="400" height="300">
+
+
+
 
