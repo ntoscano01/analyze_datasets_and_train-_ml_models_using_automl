@@ -1,6 +1,6 @@
 # Register and visualize dataset
 
-Notes: This repo is for the Coursera course:Analyze Datasets and Train ML Models using AutoML.  This course focuses on the AWS data science product stack.  This is week 1 exercise.
+Notes: This repo is for the Coursera course Analyze Datasets and Train ML Models using AutoML.  This course focuses on the AWS data science product stack.  This is week 1 exercise.
 
 1. List and access the Women's Clothing Reviews dataset files hosted in an S3 bucket
 
