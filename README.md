@@ -15,3 +15,5 @@ Notes: This repo is for the Coursera course:Analyze Datasets and Train ML Models
 6. Return the query results in a pandas dataframe
 
 7. Produce and select different plots and visualizations that address your questions
+
+Download source dataset here: https://www.kaggle.com/datasets/nicapotato/womens-ecommerce-clothing-reviews?resource=download
